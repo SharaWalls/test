@@ -1,0 +1,51 @@
+[
+  {
+    "device_id": "DEV1001",
+    "household_id": "HH001",
+    "device_type": "grid_meter",
+    "register_unit": "kWh",
+    "status": "active"
+  },
+  {
+    "device_id": "DEV1002",
+    "household_id": "HH001",
+    "device_type": "solar_inverter",
+    "register_unit": "kWh",
+    "status": "active"
+  },
+  {
+    "device_id": "DEV1003",
+    "household_id": "HH001",
+    "device_type": "battery",
+    "register_unit": "kWh",
+    "status": "active"
+  },
+  {
+    "device_id": "DEV1004",
+    "household_id": "HH001",
+    "device_type": "ev_charger",
+    "register_unit": "kWh",
+    "status": "inactive"
+  },
+  {
+    "device_id": "DEV2001",
+    "household_id": "HH002",
+    "device_type": "grid_meter",
+    "register_unit": "kWh",
+    "status": "active"
+  },
+  {
+    "device_id": "DEV3001",
+    "household_id": "HH003",
+    "device_type": "grid_meter",
+    "register_unit": "kWh",
+    "status": "active"
+  },
+  {
+    "device_id": "DEV3002",
+    "household_id": "HH003",
+    "device_type": "solar_inverter",
+    "register_unit": "kWh",
+    "status": "active"
+  }
+]

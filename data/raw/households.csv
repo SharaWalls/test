@@ -1,0 +1,4 @@
+household_id,region,installation_date,has_solar,has_battery,has_ev_charger
+HH001,Wellington,2024-05-15,true,true,true
+HH002,Canterbury,2024-09-01,false,false,false
+HH003,Waikato,2025-01-20,true,false,false
